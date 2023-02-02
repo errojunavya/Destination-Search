@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.image {
+  width: 235px;
+  height: 175px;
+}
+.list-container {
+  list-style-type: none;
+  text-align: center;
+}
